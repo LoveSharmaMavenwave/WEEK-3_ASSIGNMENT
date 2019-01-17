@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+}
+#header-nav{
+	background-color: lightgray;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand h1{
+	margin-top: 0;
+	font-weight: bold;
+}
+.navbar-brand h1:hover, .navbar-brand h1:focus{
+	text-decoration: none;
+}
